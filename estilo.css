@@ -92,6 +92,7 @@ body {
   table-layout: fixed;
   float: none !important;
   color: black;
+  gap: 20px;
 }
 
 .navbar-nav .nav-link {
